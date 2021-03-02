@@ -25,7 +25,7 @@ Mini-hacks will start the first day of every month.
 All hack submissions should be submitted before the end of the month.
 
 ## How to submit a hack ⛵️
-1. [Create an issue](https://github.com/Web3-API/mini-hacks/issues/new) in this repository, describing your project in full.
+1. Before the month ends, [create an issue](https://github.com/Web3-API/mini-hacks/issues/new) in this repository describing your project in full.
 2. Mark the issue with the label "[submission]".
 3. That's it!
 
