@@ -1,4 +1,6 @@
-# Web3API Mini-Hacks 🌊 (Round I)
+![Web3API Mini-Hacks 🌊 (Round I)](./minihacks.png)
+
+# Web3API Mini-Hacks 🌊
 
 To incentivize all members of the ecosystem to experiment and create new ideas in a permisionless way, each month the Web3API DAO will host a mini-hackathon where the best projects will be selected by other members of the DAO, and a reward pool of (40? W3API tokens -> TODO: Create Spending Proposal) will be shared pro-rata to all participants who received votes.
 
