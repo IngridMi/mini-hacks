@@ -34,7 +34,7 @@ Judges will be voting based on your issue's contents. Remember, only one submiss
 ## Judges and voting 👍
 By the end of each round, the W3API token holders will be able to vote on the submissions they believe are the coolest. 
 
-**How to vote**: If you hold W3API tokens, you'll be able to vote on submission through [Tokenlog.xyz](http://tokenlog.xyz/web3-api/mini-hacks) (TODO: Make Repo Public).
+**How to vote**: If you hold W3API tokens, you'll be able to vote on submission through [Tokenlog.xyz](http://tokenlog.xyz/web3-api/mini-hacks) 
 
 Voting will end after the 7th day of each month, and the recorded score on that date will be used to distribute the rewards.
 
