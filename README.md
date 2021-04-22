@@ -3,7 +3,7 @@
 
 # Web3API Mini-Hacks 🌊
 
-To incentivize all members of the ecosystem to experiment and create new ideas in a permisionless way, each month the Web3API DAO will host a mini-hackathon where the best projects will be selected by other members of the Web3API DAO, and a reward pool of 20 W3API tokens will be shared pro-rata to all participants who received votes.
+To incentivize all members of the ecosystem to experiment and create new ideas in a permisionless way, each trimester the Web3API DAO will host a mini-hackathon where the best projects will be selected by other members of the Web3API DAO, and a reward pool of 60 W3API tokens will be shared pro-rata to all participants who received votes.
 
 ## How to participate 🔬
 
@@ -22,25 +22,25 @@ To incentivize all members of the ecosystem to experiment and create new ideas i
 
 ## When? 📅
 
-Mini-hacks will start the first day of every month.
-All hack submissions should be submitted before the end of the month.
+Mini-hacks will start the first day of each trimester.
+All hack submissions should be submitted before the end of the trimester.
 
 ## How to submit a hack ⛵️
-1. Before the month ends, [create an issue](https://github.com/Web3-API/mini-hacks/issues/new?assignees=&labels=submission&template=mini-hack-submission.md&title=%5BMinihack+Title%5D+-+%5BYour+name%5D) in this repository describing your project in full.
+1. Before the trimester ends, [create an issue](https://github.com/Web3-API/mini-hacks/issues/new?assignees=&labels=submission&template=mini-hack-submission.md&title=%5BMinihack+Title%5D+-+%5BYour+name%5D) in this repository describing your project in full.
 2. That's it!
 
-Judges will be voting based on your issue's contents. Remember, only one submission per person, per round.
+Judges will be voting based on your issue's contents. 
 
 ## Judges and voting 👍
 By the end of each round, the W3API token holders will be able to vote on the submissions they believe are the coolest. 
 
 **How to vote**: If you hold W3API tokens, you'll be able to vote on submission through [Tokenlog.xyz](http://tokenlog.xyz/web3-api/mini-hacks) 
 
-Voting will end after the 7th day of each month, and the recorded score on that date will be used to distribute the rewards.
+The voting period will last 7 days after the end of each trimester, and the recorded score on that date will be used to distribute the rewards.
 
 ## Rewards and prizes 🏆
 
-The reward pool will be shared pro-rata with all other submissions who received votes on that same round. (For example, if there are 1000 total votes in all of the submissions, and your hack received 100 votes, you'll get 10% of that month's reward pool)
+The reward pool will be shared pro-rata with all other submissions who received votes on that same round. (For example, if there are 1000 total votes in all of the submissions, and your hack received 100 votes, you'll get 10% of that rounds's reward pool)
 
 ## Disclaimer ☑️
 
@@ -48,4 +48,4 @@ The Web3API DAO may or may not use concepts/ideas developed through the hackatho
 
 ## Questions ❓
 
- You can message Roberto, Steff, or Jordan if you need any help. Additionally, you can always send a message through the Web3API Discord.
+ You can ask questions in our [Discord](https://discord.com/invite/Z5m88a5qWu) if you need any help. Additionally, you can always send a message through the Web3API Discord.
