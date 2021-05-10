@@ -1,5 +1,5 @@
 
-![Web3API Mini-Hacks 🌊 (Round I)](./minihacks.png)
+![Web3API Mini-Hacks 🌊](./minihacks.png)
 
 # Web3API Mini-Hacks 🌊
 
