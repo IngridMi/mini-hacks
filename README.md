@@ -1,15 +1,15 @@
 
-![Web3API Mini-Hacks 🌊](./minihacks.png)
+![Polywrap Mini-Hacks 🌊](./minihacks.png)
 
-# Web3API Mini-Hacks 🌊
+# Polywrap Mini-Hacks 🌊
 
-To incentivize all members of the ecosystem to experiment and create new ideas in a permisionless way, each trimester the Web3API DAO will host a mini-hackathon where the best projects will be selected by other members of the Web3API DAO, and a reward pool of 60 W3API tokens will be shared pro-rata to all participants who received votes.
+To incentivize all members of the ecosystem to experiment and create new ideas in a permisionless way, each trimester the Polywrap DAO will host a mini-hackathon where the best projects will be selected by other members of the Polywrap DAO, and a reward pool of 60 W3API tokens will be shared pro-rata to all participants who received votes.
 
 ## How to participate 🔬
 
-**Work on something you're interested in relating to Web3API!** The domain for these projects include the following hack ideas: 
+**Work on something you're interested in relating to Polywrap!** The domain for these projects include the following hack ideas: 
 
-- New Web3APIs
+- New Polywrappers!
 - Apps and Demos
 - Product Designs
 - Logo Designs
@@ -18,7 +18,7 @@ To incentivize all members of the ecosystem to experiment and create new ideas i
 - Memes
 - Anything really
 
-*We encourage you to share ideas and progress in the Web3API Discord to get feedback from other team members and polish your concepts. 🌿*
+*We encourage you to share ideas and progress in the Polywrap Discord to get feedback from other team members and polish your concepts. 🌿*
 
 ## When? 📅
 
@@ -44,8 +44,8 @@ The reward pool will be shared pro-rata with all other submissions who received 
 
 ## Disclaimer ☑️
 
-The Web3API DAO may or may not use concepts/ideas developed through the hackathon for future development or use. Participants acknowledge that anything issued on the hackathon are open and available to use without any infringement on any possible related intellectual property infringement.
+The Polywrap DAO may or may not use concepts/ideas developed through the hackathon for future development or use. Participants acknowledge that anything issued on the hackathon are open and available to use without any infringement on any possible related intellectual property infringement.
 
 ## Questions ❓
 
- You can ask questions in our [Discord](https://discord.com/invite/Z5m88a5qWu) if you need any help. Additionally, you can always send a message through the Web3API Discord.
+ You can ask questions in our [Discord](https://discord.com/invite/Z5m88a5qWu) if you need any help. Additionally, you can always send a message through the Polywrap Discord.
