@@ -3,7 +3,7 @@
 
 # Polywrap Mini-Hacks 🌊
 
-To incentivize all members of the ecosystem to experiment and create new ideas in a permisionless way, each trimester the Polywrap DAO will host a mini-hackathon where the best projects will be selected by other members of the Polywrap DAO, and a reward pool of 60 W3API tokens will be shared pro-rata to all participants who received votes.
+To incentivize all members of the ecosystem to experiment and create new ideas in a permisionless way, each trimester the Polywrap DAO will host a mini-hackathon where the best projects will be selected by other members of the Polywrap DAO, and a reward pool of 60 WRAP-IOU tokens will be shared pro-rata to all participants who received votes.
 
 ## How to participate 🔬
 
@@ -32,9 +32,9 @@ All hack submissions should be submitted before the end of the trimester.
 Judges will be voting based on your issue's contents. 
 
 ## Judges and voting 👍
-By the end of each round, the W3API token holders will be able to vote on the submissions they believe are the coolest. 
+By the end of each round, the WRAP-IOU token holders will be able to vote on the submissions they believe are the coolest. 
 
-**How to vote**: If you hold W3API tokens, you'll be able to vote on submission through [Tokenlog.xyz](http://tokenlog.xyz/polywrap/mini-hacks) 
+**How to vote**: If you hold WRAP-IOU tokens, you'll be able to vote on submission through [Tokenlog.xyz](http://tokenlog.xyz/polywrap/mini-hacks) 
 
 The voting period will last 7 days after the end of each trimester, and the recorded score on that date will be used to distribute the rewards.
 
