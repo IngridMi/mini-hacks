@@ -26,7 +26,7 @@ Mini-hacks will start the first day of each trimester.
 All hack submissions should be submitted before the end of the trimester.
 
 ## How to submit a hack ⛵️
-1. Before the trimester ends, [create an issue](https://github.com/Web3-API/mini-hacks/issues/new?assignees=&labels=submission&template=mini-hack-submission.md&title=%5BMinihack+Title%5D+-+%5BYour+name%5D) in this repository describing your project in full.
+1. Before the trimester ends, [create an issue](https://github.com/polywrap/mini-hacks/issues/new?assignees=&labels=submission&template=mini-hack-submission.md&title=%5BMinihack+Title%5D+-+%5BYour+name%5D) in this repository describing your project in full.
 2. That's it!
 
 Judges will be voting based on your issue's contents. 
@@ -34,7 +34,7 @@ Judges will be voting based on your issue's contents.
 ## Judges and voting 👍
 By the end of each round, the W3API token holders will be able to vote on the submissions they believe are the coolest. 
 
-**How to vote**: If you hold W3API tokens, you'll be able to vote on submission through [Tokenlog.xyz](http://tokenlog.xyz/web3-api/mini-hacks) 
+**How to vote**: If you hold W3API tokens, you'll be able to vote on submission through [Tokenlog.xyz](http://tokenlog.xyz/polywrap/mini-hacks) 
 
 The voting period will last 7 days after the end of each trimester, and the recorded score on that date will be used to distribute the rewards.
 
